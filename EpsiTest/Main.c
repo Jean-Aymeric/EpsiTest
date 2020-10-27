@@ -2,6 +2,6 @@
 #include <stdlib.h>
 
 int main (void) {
-    printf ("Coucou");
+    printf ("Louis Escartin");
     return EXIT_SUCCESS;
 }
